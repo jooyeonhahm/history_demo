@@ -1,2 +1,2 @@
 # history_demo
-Demo data and notebooks
+Where I store demo data and notebooks for history projects!
